@@ -68,7 +68,7 @@ To improve prediction accuracy, we suggest:
 
 ---
 
-## 📎 License
+## License
 
 This repository is for educational purposes only. The dataset used is anonymized and proprietary.
 
